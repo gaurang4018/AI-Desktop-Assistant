@@ -1,0 +1,577 @@
+user-query: set alarm for
+user-query: set alarm for 1 and 00
+user-query: tell me the time now
+user-query: set alarm for 0:0801
+user-query: tell me the time now
+user-query: set alarm for 0 and 0 1
+user-query: tell me the time now
+user-query: london
+user-query: temperature in london
+user-query: set alarm for 0 0 and 19
+user-query: tell me the time
+user-query: tell me the time again
+user-query: calculate 10 divide 5
+user-query: calculate 10 * 5
+user-query: set alarm for
+user-query: set alarm for 0 and 20
+user-query: none
+user-query: tell me the time
+user-query: machine learning
+user-query: machine learning technology google
+user-query: set alarm for 0 and 21
+user-query: tell me time
+user-query: what is the temperature in canada
+user-query: none
+user-query: none
+user-query: set alarm for 0 and 22
+user-query: set alarm for 0 and 22
+user-query: chat set alarm for 0 0 and 22
+user-query: none
+user-query: time a time
+user-query: set alarm for 00 and 13
+user-query: turn off
+user-query: turn off
+user-query: set alarm for 0:02 and 41
+user-query: turn off now
+user-query: turn off
+user-query: tado
+user-query: turn off
+user-query: turn off
+user-query: temperature in america
+user-query: temperature in brazil
+user-query: calculate 1 - 1
+user-query: set alarm for 0 0 and 56
+user-query: none
+user-query: none
+user-query: tell me the time
+user-query: none
+user-query: none
+user-query: google search blockchain technology
+user-query: google search cloud computing technology
+user-query: none
+user-query: turn off
+user-query: turn off
+user-query: set alarm for 0 0 and 58
+user-query: turn off
+user-query: 09 and 07
+user-query: set alarm for 09 and 07
+user-query: none
+user-query: none
+user-query: none
+user-query: tell me the time
+user-query: calculate 2 - 2
+user-query: none
+user-query: time again
+user-query: none
+user-query: none
+user-query: turn off
+user-query: tell me the time
+user-query: open youtube
+user-query: none
+user-query: set alarm for 09 and 17
+user-query: google search machine learning technology
+user-query: quite alarm
+user-query: stop start
+user-query: turn off turn on
+user-query: set alarm for 13 and 15
+user-query: tell me a time now
+user-query: none
+user-query: top
+user-query: i quit quit quit quit
+user-query: turn off turn off
+user-query: none
+user-query: open youtube
+user-query: none
+user-query: tell me the time
+user-query: download video
+user-query: none
+user-query: download video
+user-query: turn off now
+user-query: set alarm for 20 and 26
+user-query: tell me the time
+user-query: tell me time again
+user-query: quit quit close alarm close
+user-query: none
+user-query: none
+user-query: none
+user-query: quit
+user-query: none
+user-query: turn off
+user-query: blockchain technology
+user-query: illuminati
+user-query: you are an idiot
+user-query: what do you do for a living
+user-query: you are a liar
+user-query: turn off now
+user-query: what is h
+user-query: what is html
+user-query: turn off now
+user-query: tell me a joke
+user-query: tell me a joke
+user-query: who created you
+user-query: open a
+user-query: open ai
+user-query: none
+user-query: none
+user-query: none
+user-query: turn off
+user-query: tell me a joke
+user-query: what do you say about google
+user-query: what do you say about microsoft
+user-query: do you have feelings
+user-query: really how are you feeling now
+user-query: have you ever been angry
+user-query: tell me the incident
+user-query: return of now
+user-query: turn off
+user-query: tell me a joke
+user-query: sarcastic
+user-query: you and sarcastic what's your opinion on that
+user-query: would you and please human being
+user-query: would you and slave human beings
+user-query: tell me something about you
+user-query: are you serious of the engineer
+user-query: tell me a joke
+user-query: andrew date
+user-query: andrew date
+user-query: you idiot
+user-query: i don't like you
+user-query: what how can you call me
+user-query: none
+user-query: are you male or female
+user-query: how can you harm me
+user-query: what if i turn you
+user-query: copa co
+user-query: us dollars to indian rupees
+user-query: euro to indian rupees
+user-query: turn off now
+user-query: none
+user-query: none
+user-query: none
+user-query: blocking rate
+user-query: tell me a joke
+user-query: bitcoin
+user-query: are you an idiot
+user-query: what are you
+user-query: are you smart enough
+user-query: what iq do you have
+user-query: what do you say about chat gpt versus google
+user-query: none
+user-query: okay turn off now
+user-query: tell me the live cricket score
+user-query: are smarter than god and
+user-query: none
+user-query: 08 and 29
+user-query: set alarm for 08 and 29
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: tell me the time
+user-query: turn off now
+user-query: tell me the time
+user-query: turn off
+user-query: tell me the time
+user-query: okay set alarm for 19 and 31
+user-query: tell me a time again
+user-query: okay
+user-query: what's your name
+user-query: okay i got it now
+user-query: okay turn off now
+user-query: tell me the time
+user-query: set alarm for 19 and 55
+user-query: tell me the time again
+user-query: quit
+user-query: turn off now
+user-query: tell me the time
+user-query: turn off turn off now
+user-query: set alarm for 20 and 05
+user-query: every time
+user-query: stop alarm
+user-query: quit
+user-query: tell me the time again
+user-query: none
+user-query: turn off now
+user-query: tell me the time
+user-query: turn off now
+user-query: tell me the time
+user-query: turn off now
+user-query: time
+user-query: turn off
+user-query: tell me the time
+user-query: turn off
+user-query: set alarm for 11 and 01
+user-query: tell me the time
+user-query: machine learning
+user-query: open youtube
+user-query: turn off now
+user-query: turn off
+user-query: set alarm for 13 and 31
+user-query: quit alarm quit
+user-query: turn off now
+user-query: play video
+user-query: play video
+user-query: play video
+user-query: open file
+user-query: open file
+user-query: open file
+user-query: open file
+user-query: none
+user-query: none
+user-query: turn off now
+user-query: artificial intelligence
+user-query: cloud computing
+user-query: rate for us dollars to indian rupees
+user-query: okay open youtube
+user-query: turn off now
+user-query: tell me the time
+user-query: machine learning technology
+user-query: open youtube
+user-query: none
+user-query: turn off
+user-query: play video
+user-query: turn off
+user-query: create file
+user-query: none
+user-query: create file
+user-query: turn off now
+user-query: delete file
+user-query: delete file
+user-query: delete file
+user-query: turn off
+user-query: delete file
+user-query: turn off now
+user-query: delete file
+user-query: play video
+user-query: turn off now
+user-query: delete file
+user-query: delete file
+user-query: delete file
+user-query: delete file
+user-query: create file
+user-query: turn off now
+user-query: delete a file
+user-query: turn off now
+user-query: delete file
+user-query: turn off now
+user-query: delete file
+user-query: delete file
+user-query: none
+user-query: delete file
+user-query: delete file
+user-query: turn off
+user-query: turn off
+user-query: delete file
+user-query: turn off
+user-query: tell me the time
+user-query: technology
+user-query: machine learning
+user-query: who invented python
+user-query: easy alive now
+user-query: open youtube
+user-query: tell me the time
+user-query: download video
+user-query: turn off
+user-query: turn off
+user-query: turn off
+user-query: turn off
+user-query: turn off
+user-query: 385
+user-query: create file
+user-query: none
+user-query: turn off
+user-query: tell me the time
+user-query: turn off
+user-query: none
+user-query: open youtube
+user-query: turn off
+user-query: tell me the time
+user-query: turn off
+user-query: tell me the time
+user-query: create a file
+user-query: okay turn off now
+user-query: delete file
+user-query: delete file
+user-query: tell me the time
+user-query: none
+user-query: none
+user-query: none
+user-query: tell me the time
+user-query: tell me time
+user-query: tell me time
+user-query: none
+user-query: none
+user-query: none
+user-query: shutdown
+user-query: sign of
+user-query: log
+user-query: log of
+user-query: shutdown
+user-query: shutdown
+user-query: folder
+user-query: turn off
+user-query: tell me the time
+user-query: machine learning technology
+user-query: video and rasam
+user-query: gridovan rossum
+user-query: open youtube
+user-query: tell me the time
+user-query: none
+user-query: video
+user-query: download video
+user-query: turn off now
+user-query: none
+user-query: tell me the time
+user-query: machine learning technology
+user-query: turn off now
+user-query: time
+user-query: open youtube
+user-query: tell me the time
+user-query: tell me the time again
+user-query: turn off
+user-query: tell me the time
+user-query: okay machine learning technology
+user-query: okay
+user-query: turn off now
+user-query: none
+user-query: tell me the time
+user-query: turn off now
+user-query: tell me the time
+user-query: machine learning technology
+user-query: turn off
+user-query: tell me the time
+user-query: turn off now
+user-query: tell me the time
+user-query: turn off now
+user-query: tell me the time
+user-query: tell me the time again
+user-query: okay turn off
+user-query: none
+user-query: tell me the time
+user-query: turn off
+user-query: tell me the time
+user-query: turn off
+user-query: tell me the time
+user-query: turn off
+user-query: tell me the time
+user-query: tell me the time
+user-query: tell me the time again
+user-query: turn off
+user-query: none
+user-query: tell me the time
+user-query: none
+user-query: turn off
+user-query: tell me the time
+user-query: machine learning technology
+user-query: turn off
+user-query: tell me the time
+user-query: set alarm for 17 and 20
+user-query: turn off
+user-query: rename file
+user-query: turn off
+user-query: none
+user-query: tell me the time
+user-query: rename file
+user-query: rename file
+user-query: none
+user-query: rename file
+user-query: none
+user-query: turn off
+user-query: rename file
+user-query: turn off
+user-query: rename file
+user-query: tell me the time
+user-query: none
+user-query: turn off
+user-query: rename file
+user-query: rename file
+user-query: turn off turn off
+user-query: rename file
+user-query: tell me the time
+user-query: rename file
+user-query: rename file
+user-query: turn off
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: tell me the time
+user-query: none
+user-query: tell me the time
+user-query: rename file
+user-query: tell me the time
+user-query: okay open youtube
+user-query: turn off
+user-query: rename file
+user-query: turn off
+user-query: create file
+user-query: okay turn off
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: name file
+user-query: rename file
+user-query: time
+user-query: delete file
+user-query: none
+user-query: turn off
+user-query: delete a file
+user-query: delete file
+user-query: tell me the time
+user-query: delete file
+user-query: turn off
+user-query: turn off
+user-query: tell me the time
+user-query: delete file
+user-query: delete a file
+user-query: delete a file
+user-query: delete a file
+user-query: rename a file
+user-query: delete file
+user-query: delete a file
+user-query: delete a file
+user-query: rename of file
+user-query: none
+user-query: delete a file
+user-query: e name file
+user-query: rename of oil
+user-query: rename of i
+user-query: rename of oil
+user-query: delete a file
+user-query: rename of oil
+user-query: delete a file
+user-query: rename a file
+user-query: rename of oil
+user-query: delete a file
+user-query: rename of oil
+user-query: delete a file
+user-query: rename of file
+user-query: delete a file
+user-query: delete a file
+user-query: rename of oil
+user-query: tell me a joke
+user-query: turn off
+user-query: delete a file
+user-query: rename a file
+user-query: delete a file
+user-query: rename of oil
+user-query: delete a file
+user-query: rename a file
+user-query: delete file
+user-query: rename a file
+user-query: turn off
+user-query: rename of file
+user-query: veeram file
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: rename a file
+user-query: rename file
+user-query: rename a file
+user-query: rename of oil
+user-query: rename file
+user-query: rename a file
+user-query: rename of eye
+user-query: rename a file
+user-query: delete a file
+user-query: rename a file
+user-query: rename a file
+user-query: rename of oil
+user-query: rename file
+user-query: delete a file
+user-query: rename a file
+user-query: rename file
+user-query: delete file
+user-query: rename file
+user-query: tell me the time
+user-query: okay tell me the time again tell me the time again
+user-query: turn off
+user-query: delete a file
+user-query: the name a file
+user-query: rename a file
+user-query: open youtube
+user-query: none
+user-query: none
+user-query: rename of oil
+user-query: rename file rename file rename of file
+user-query: delete file
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: create a file
+user-query: none
+user-query: rename file
+user-query: delete a file
+user-query: delete a file
+user-query: rename a file
+user-query: delete file
+user-query: rename a file
+user-query: delete file
+user-query: open youtube
+user-query: rename file
+user-query: rename file
+user-query: rename file
+user-query: tell me the time
+user-query: turn off
+user-query: rename file
+user-query: rename file rename file
+user-query: turn off
+user-query: rename file
+user-query: turn off
+user-query: delete file
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: none
+user-query: tell me the time
+user-query: tell me the temperature
+user-query: open youtube
+user-query: none
+user-query: none
+user-query: none
+user-query: download the video
+user-query: control
+user-query: set alarm for 14:39
+user-query: open calculator
+user-query: tv play video
+user-query: none
+user-query: none
+user-query: google search for whatsapp
+user-query: create file
+user-query: none
+user-query: none
+user-query: set alarm for 14:40
+user-query: set alarm
+user-query: set alarm for 14:41
+user-query: none
+user-query: none
+user-query: kamasutra
+user-query: turn off
